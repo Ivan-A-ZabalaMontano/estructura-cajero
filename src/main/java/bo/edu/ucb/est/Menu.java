@@ -55,11 +55,7 @@ public class Menu {
 			}
 			else
 			{
-				
 				JOptionPane.showMessageDialog(null, "Los datos ingresados no son correctos");
-				
-				
-	
 			}
 		}
 	}
